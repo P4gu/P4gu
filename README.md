@@ -7,9 +7,17 @@ Sou Paula Guimarães, estudante de Tecnologia em Jogos Digitais, apaixonada por 
 
 # Sobre Mim
 🎓 Atualmente cursando Tecnologia em Jogos Digitais
+
+
 🚀 Apaixonada por design de jogos e narrativa interativa
+
+
 💻 Conhecimento em Unity, C#, e outras tecnologias relacionadas a jogos
+
+
 🌐 Sempre buscando aprender e colaborar com a comunidade
+
+
 
 # Projetos Destacados
 
