@@ -21,15 +21,15 @@ Descrição do projeto 2, destacando seus principais aspectos e contribuições.
 
 ## Swine Pearls
 Jogo desenvolvido para o Sistema Maximizado de Avaliação Unificada em Games (SMAUG)
-  ### - Gênero: 
-  Visual Novel, Investigativo, retro-futurista.
+### - Gênero: 
+Visual Novel, Investigativo, retro-futurista.
 
-  ### - Sinopse
+### - Sinopse:
 Vivemos em uma realidade falida, a tecnologia avançada é para poucos e a miséria para muitos. Em uma sociedade em que quase todos possuem partes do corpo modificadas, um grupo de hackers conhecido pelo pseudônimo de Swine Pearls tem realizado ciberterrorismo contra os mais poderosos.
 
 Mas o que essas pessoas têm em comum além da morte? Você assume o papel de Rogério, um homem de meia-idade, falido e aspirante a jornalista, que percebe as ligações entre os ataques. Sua missão é comprovar a conexão entre os casos, desvendar os motivos sórdidos por trás deles e descobrir quem são os Hackers.
 
-  ### - Plataforma
+### - Plataforma:
 
 PC
 
