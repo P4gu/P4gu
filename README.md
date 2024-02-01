@@ -11,17 +11,17 @@ Sou Paula Guimarães, estudante de Tecnologia em Jogos Digitais, apaixonada por 
 💻 Conhecimento em Unity, C#, e outras tecnologias relacionadas a jogos
 🌐 Sempre buscando aprender e colaborar com a comunidade
 
-## Projetos Destacados
+# Projetos Destacados
 
-# Benny, the bunny.
+## Benny, the bunny.
 Breve descrição do projeto 1, destacando tecnologias utilizadas, desafios enfrentados e lições aprendidas.
 
-# Roller Jam Running
+## Roller Jam Running
 Descrição do projeto 2, destacando seus principais aspectos e contribuições.
 
-# Swine Pearls
+## Swine Pearls
 Jogo desenvolvido para o Sistema Maximizado de Avaliação Unificada em Games (SMAUG)
-  # Gênero: 
+  ### Gênero: 
       Visual Novel, Investigativo, retro-futurista.
 Vivemos em uma realidade falida, a tecnologia avançada é para poucos e a miséria para muitos. Em uma sociedade em que quase todos possuem partes do corpo modificadas, um grupo de hackers conhecido pelo pseudônimo de Swine Pearls tem realizado ciberterrorismo contra os mais poderosos.
 
