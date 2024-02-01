@@ -1,4 +1,4 @@
-- Paula Guimarães - GitHub Portfolio
+## Paula Guimarães - GitHub Portfolio
 -
 -
 -
@@ -10,14 +10,6 @@ Sobre Mim
 💻 Conhecimento em Unity, C#, e outras tecnologias relacionadas a jogos
 🌐 Sempre buscando aprender e colaborar com a comunidade
 Projetos Destacados
-Nome do Projeto 1
-Breve descrição do projeto 1, destacando tecnologias utilizadas, desafios enfrentados e lições aprendidas.
-
-Nome do Projeto 2
-Descrição do projeto 2, destacando seus principais aspectos e contribuições.
-
-Nome do Projeto 3
-Resumo do projeto 3, incluindo detalhes sobre a proposta, implementação e resultados alcançados.
 
 Habilidades Técnicas
 Linguagens de Programação: C#, JavaScript
