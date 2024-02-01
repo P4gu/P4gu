@@ -53,7 +53,11 @@ Colaboração: Git, GitHub
 # Contato
 
 📧 Email: paulaf.guimaraes99@gmail.com
+
+
 💼 LinkedIn: https://www.linkedin.com/in/paula-guimaraes-977538157/
+
+
 🎮 It.io: https://sucit.itch.io
 
 # Contribuições e Colaborações
