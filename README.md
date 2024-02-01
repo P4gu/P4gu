@@ -44,7 +44,6 @@ PC
 # Habilidades Técnicas
 Linguagens de Programação: Python, JavaScript, HTML,
 Frameworks: Unity
-Design: Ferramentas de design 3D (opcional, se aplicável)
 Colaboração: Git, GitHub
 
 # Contato
