@@ -42,8 +42,12 @@ Mas o que essas pessoas têm em comum além da morte? Você assume o papel de Ro
 PC
 
 # Habilidades Técnicas
-Linguagens de Programação: Python, JavaScript, HTML,
+Linguagens de Programação: Python, JavaScript, HTML.
+
+
 Frameworks: Unity
+
+
 Colaboração: Git, GitHub
 
 # Contato
