@@ -1,4 +1,5 @@
-# Paula Guimarães - GitHub Portfolio
+# Paula Guimarães 
+
 ## Olá! 👋 Sou Paula Guimarães, estudante de Tecnologia em Jogos Digitais apaixonada por criar experiências interativas e envolventes. Bem-vindo ao meu repositório no GitHub, onde compartilho meus projetos e aprendizados no fascinante mundo dos jogos digitais.
 
 #Sobre Mim
