@@ -9,10 +9,7 @@ Sou Paula Guimarães, estudante de Tecnologia em Jogos Digitais, apaixonada por 
 🎓 Atualmente cursando Tecnologia em Jogos Digitais
 
 
-🚀 Apaixonada por design de jogos e narrativa interativa
-
-
-💻 Conhecimento em Unity, C#, e outras tecnologias relacionadas a jogos
+🚀 Apaixonada por jogos e intelingência artificial humanizada
 
 
 🌐 Sempre buscando aprender e colaborar com a comunidade
@@ -52,7 +49,9 @@ Linguagens de Programação:
           
 
 
-Frameworks: Unity
+Frameworks: 
+
+<img src="https://devicon-website.vercel.app/api/unity/original-wordmark.svg?color=%23FFFFFF" width="80" height="80"></img>
 
 
 Colaboração: Git, GitHub
