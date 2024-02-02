@@ -48,7 +48,16 @@ Mas quem é Alice? Onde ela está? Por que ela deixaria o doce Benny para trás?
 PC
 
 ## Roller Jam Running ⛸️
-Descrição do projeto 2, destacando seus principais aspectos e contribuições.
+Jogo desenvolvido para a CaracasGameJam
+### - Gênero: 
+Racing, Adventure
+### - Sinopse:
+Nada melhor do que aproveitar a noite, tomando milkshake e patinando ao som de sintetizadores e baterias eletrônicas... Ao menos, foi isso que Jane pensou. Essa pista é diferente de todas as outras: aqui, não aceitam iniciantes ou fracotes, apenas os melhores patinadores! Seu objetivo é sobreviver o máximo de tempo possível, desviando de obstáculos e coletando fichas. Ajude Jane a mostrar à cidade quem é que manda!
+
+### - Plataforma:
+
+PC
+
 
 ## Swine Pearls 🐷💎
 Jogo desenvolvido para o Sistema Maximizado de Avaliação Unificada em Games (SMAUG)
