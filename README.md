@@ -42,7 +42,7 @@ Mas o que essas pessoas têm em comum além da morte? Você assume o papel de Ro
 PC
 
 # Habilidades Técnicas
-Linguagens de Programação: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> , JavaScript, HTML.
+Linguagens de Programação: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" /> , JavaScript, HTML.
 
 
 Frameworks: Unity
