@@ -14,6 +14,20 @@ Sou Paula Guimarães, estudante de Tecnologia em Jogos Digitais, apaixonada por 
 
 🌐 Sempre buscando aprender e colaborar com a comunidade
 
+# Habilidades Técnicas
+Linguagens de Programação: 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+          
+
+
+Frameworks: 
+
+<img src="https://devicon-website.vercel.app/api/unity/original-wordmark.svg?color=%23FFFFFF" width="80" height="80"></img>
+
+
+Colaboração: Git, GitHub
+
 <div>
 <a href="https://github.com/Suc1t">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suc1t&layout=compact&langs_count=7&theme=dracula"/>
@@ -41,20 +55,6 @@ Mas o que essas pessoas têm em comum além da morte? Você assume o papel de Ro
 ### - Plataforma:
 
 PC
-
-# Habilidades Técnicas
-Linguagens de Programação: 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-          
-
-
-Frameworks: 
-
-<img src="https://devicon-website.vercel.app/api/unity/original-wordmark.svg?color=%23FFFFFF" width="80" height="80"></img>
-
-
-Colaboração: Git, GitHub
 
 # Contato
 
