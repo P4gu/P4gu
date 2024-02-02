@@ -26,7 +26,6 @@ Frameworks:
 <img src="https://devicon-website.vercel.app/api/unity/original-wordmark.svg?color=%23FFFFFF" width="80" height="80"></img>
 
 
-Colaboração: Git, GitHub
 
 <div>
 <a href="https://github.com/Suc1t">
@@ -36,13 +35,22 @@ Colaboração: Git, GitHub
 
 # Projetos Destacados
 
-## Benny, the bunny.
-Breve descrição do projeto 1, destacando tecnologias utilizadas, desafios enfrentados e lições aprendidas.
+## Benny, the bunny. 🐰
+Jogo desenvolvido para o Sistema Maximizado de Avaliação Unificada em Games (SMAUG)
+### - Gênero: 
+Puzzle
+### - Sinopse:
+Após uma forte tempestade sem ninguém ao seu lado, Benny descobre que o seu pequeno coração não é mais apenas um enfeite, agora o seu coraçãozinho pulsa e Benny pode andar, pular e fazer tudo o que um simples coelhinho de pano jamais sonharia em fazer. Apesar da sua incrível descoberta, Benny não se lembra de nada sobre a sua vida, mas um estranho gnomo estava ao seu lado quando ele despertou e disse-lhe um nome... Alice...  
+Mas quem é Alice? Onde ela está? Por que ela deixaria o doce Benny para trás? Nesta aventura você será capaz de ajudar Benny a recuperar as suas memórias?
 
-## Roller Jam Running
+### - Plataforma:
+
+PC
+
+## Roller Jam Running ⛸️
 Descrição do projeto 2, destacando seus principais aspectos e contribuições.
 
-## Swine Pearls
+## Swine Pearls 🐷💎
 Jogo desenvolvido para o Sistema Maximizado de Avaliação Unificada em Games (SMAUG)
 ### - Gênero: 
 Visual Novel, Investigativo, retro-futurista.
