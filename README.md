@@ -23,8 +23,7 @@ Linguagens de Programação:
 
 
 Frameworks: 
-
-<img src="https://devicon-website.vercel.app/api/unity/original-wordmark.svg?color=%23FFFFFF" width="80" height="80"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="80" height="80" />
 
 
 
