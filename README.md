@@ -22,7 +22,7 @@ Linguagens de Programação:
                    
 <div>
 <a href="https://github.com/P4gu">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suc1t&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P4gu&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=P4gu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
