@@ -39,17 +39,16 @@ Frameworks:
 # Projetos Destacados
 
 ## Modelando o Futuro
-  ###Estágio: MVP pronto e submetido para aprovação em simposio. 
+  ### Estágio: MVP pronto e submetido para aprovação em simposio. 
   
   "Um projeto inovador que une tecnologia e sustentabilidade, transformando garrafas PET em filamentos para impressão 3D. Com foco     na comunidade da Fatec Carapicuíba, o Modelando o Futuro garante acesso a materiais de baixo custo e promove a conscientização       sobre a importância da reciclagem."
 
 ## Projeto A.M.O.R.A
-  ###Estágio: Criação de MVP
+  ### Estágio: Criação de MVP
   
   "A.M.O.R.A é um projeto inovador que explora o potencial da inteligência artificial para oferecer suporte emocional, com foco em     reconhecimento de emoções e interação personalizada. A proposta é desenvolver um sistema que, sem necessitar de linguagem verbal,    possa oferecer companhia e apoio a pessoas que não podem ter um animal de suporte. A integração com uma agenda de emoções            permitirá ao usuário controlar seu bem-estar de forma mais ativa."
 
 # Jogos desenvolvidos:
-PC
 
 ## Roller Jam Running ⛸️
 Jogo desenvolvido para a CaracasGameJam
