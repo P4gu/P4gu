@@ -3,6 +3,8 @@
 ## Hello, Devs 👋 
 
 Sou Paula Guimarães, uma programadora em formação, apaixonada por dados e inteligência artificial. Minha missão é usar o poder da tecnologia para solucionar problemas complexos e criar soluções inovadoras. Estou ansiosa para aprender e contribuir para um futuro mais inteligente e conectado.
+
+
   Bem-vindo ao meu repositório no GitHub, onde compartilho meus projetos e aprendizados no fascinante mundo da programação!
 
 # Sobre Mim
